@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cursoportaria.com.br/sitemap.xml
